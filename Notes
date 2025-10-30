@@ -24,3 +24,21 @@ HTMl - Hyper text markup language
 
 10) Forms - input and label
 
+11) Media Elements - Audio and video
+
+12) Sematic Tags - Header, footer, main, section and nav
+
+
+CSS - Cadcasing Style Sheet
+
+1. Types of CSS
+ i - Inline
+ ii - internal 
+ iii - External
+inline > internal > external 
+
+2. CSS Synatax
+Selector{
+    property: value;
+}
+
