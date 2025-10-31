@@ -1,44 +1,69 @@
 HTMl - Hyper text markup language
-* To create a Web pages
-* its not a programming language
-* its a markup language
-* Every website can start with HTML
 
-1) Heading - h1 to h6
+- To create a Web pages
+- its not a programming language
+- its a markup language
+- Every website can start with HTML
 
-2) Paragraph - p
+1. Heading - h1 to h6
 
-3) hr
+2. Paragraph - p
 
-4) br
+3. hr
 
-5) Text formating - u, i, b or strong, mark, sup and sub
+4. br
 
-6) Anchor Tag - a
+5. Text formating - u, i, b or strong, mark, sup and sub
 
-7) Image Tag - img
+6. Anchor Tag - a
 
-8) list - order list and unorder list
+7. Image Tag - img
 
-9) Tables - tr, th and td
+8. list - order list and unorder list
 
-10) Forms - input and label
+9. Tables - tr, th and td
 
-11) Media Elements - Audio and video
+10. Forms - input and label
 
-12) Sematic Tags - Header, footer, main, section and nav
+11. Media Elements - Audio and video
 
+12. Sematic Tags - Header, footer, main, section and nav
 
 CSS - Cadcasing Style Sheet
 
 1. Types of CSS
- i - Inline
- ii - internal 
- iii - External
-inline > internal > external 
+   i - Inline
+   ii - internal
+   iii - External
+   inline > internal > external
 
 2. CSS Synatax
-Selector{
-    property: value;
-}
+   Selector{
+   property: value;
+   }
 
+3. Types of Selector
+
+4. Element Selector - (h1) (h2) (p)
+5. Class Selector - (.) - Multiple times we can use the same class name, number of times
+6. Id Selector - (#) - Unique - Only one time we can use the same id name
+7. Universal Selector - (\*) - To apply the style in entire site
+8. Group Selector - calss name or id name containes different tags we want to the same style maans we go for the group selector
+
+9. Colors and Background  
+   color: red;
+   background-color: green;
+   background-image: url(./Assets/Spider-Man.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center;
+
+10. Text Styling
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    text-align: start;
+    text-transform: uppercase;
+    text-decoration: underline;
+    font-weight: bold;
+    line-height: 1;
+    letter-spacing: 20px;

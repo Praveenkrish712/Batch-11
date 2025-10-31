@@ -1,3 +1,39 @@
+*{
+    /* background-color: gray; */
+}
+
 h1{
     color: olivedrab;
+}
+
+/* h2{
+    color: red;
+} */
+
+.Skill > h1,
+.Skill > h2,
+.Skill > h3{
+    color: hotpink;
+}
+
+#Training > h1{
+    color: darkblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    text-align: start;
+    text-transform: uppercase;
+    text-decoration: underline;
+    font-weight: bold;
+    line-height: 1;
+    letter-spacing: 20px;
+}
+
+p{
+    color: red;
+    background-color: green;
+    background-image: url(./Assets/Spider-Man.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    /* letter-spacing: 1px; */
 }
