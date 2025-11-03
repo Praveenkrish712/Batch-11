@@ -67,3 +67,16 @@ CSS - Cadcasing Style Sheet
     font-weight: bold;
     line-height: 1;
     letter-spacing: 20px;
+
+11. Box Modeling
+    margin
+    border
+    padding
+    content
+
+12. Flex(Display)
+  1. Flex direction - row, row-reverse, column, column-reverse
+  2. Justify content - (X) - start, center, end, space-around, space-evenly, space-between
+  3. Align-items - (Y) - start, center, end
+  4. Flex-wrap - nowrap, wrap, wrap-reverse
+
