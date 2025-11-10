@@ -93,3 +93,11 @@ CSS - Cadcasing Style Sheet
 
 14. Grid (Display) - 2 dimensional layout system
 
+15. Tranition and Animation
+   Tranition - Whenever you just hover that the action will act
+   Animation - Simply refresh the site the Animation will act
+
+16. Media Queries or Responsive Design
+   mobile - 320px to 600px
+   tablet - 601px to 800px
+   lap/desktop - above 801px  
